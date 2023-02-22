@@ -14,7 +14,7 @@
 # Introduction
 ***
 
-Este repositorio contiene 
+This repository contains:
 [:card_index_dividers: EDA :card_index_dividers:](https://github.com/Anadalab/EDA-top-100-richest/blob/main/01-EDA.ipynb)
 
 
