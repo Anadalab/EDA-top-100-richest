@@ -34,11 +34,11 @@ This repository contains:
 
 <h1 align="center"> Nationality </h1>
 
-![00-nationality](https://raw.githubusercontent.com/Anadalab/EDA-top-100-richest/main/graphics/00-nationality.png)
+![00-nationality](https://github.com/Anadalab/EDA-top-100-richest/blob/main/graphics/00-nationality.png)
 
 <h1 align="center"> Billions </h1>
 
-![02-billions](https://user-images.githubusercontent.com/115736208/220773721-22731e44-8a5f-420f-919e-2852ccb56882.png)
+![02-billions](https://github.com/Anadalab/EDA-top-100-richest/blob/main/graphics/02-billions.png)
 
 ## Author
 + :woman: [Ana](https://github.com/Anadalab)
